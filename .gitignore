@@ -1,0 +1,9 @@
+waveapi/
+test/
+_*
+Thumbs.db
+index.yaml
+*.swp
+*.pyc
+*.log
+*.rtf
