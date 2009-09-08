@@ -5,5 +5,6 @@ Thumbs.db
 index.yaml
 *.swp
 *.pyc
+*.pyx
 *.log
 *.rtf
